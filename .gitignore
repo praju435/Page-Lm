@@ -1,0 +1,23 @@
+# Node
+node_modules/
+frontend/node_modules/
+
+# Next / React
+.next/
+dist/
+build/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Media (remove if you want mp4 tracked)
+*.mp4
+
+# Mac
+.DS_Store
+.env
+#secrets
+backend/.env
+frontend/.env
